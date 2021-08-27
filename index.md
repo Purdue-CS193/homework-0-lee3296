@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Joseph Lee's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,8 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+
+- CS193 has great instructors! :)
+- The first lecture was very fun!
+- I liked the "would you rather" questions from Tuesday's lecture.
 
 1. Numbered
 2. List
